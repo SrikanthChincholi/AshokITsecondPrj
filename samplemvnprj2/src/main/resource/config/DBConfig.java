@@ -10,6 +10,13 @@ import java.util.List;
 
 import org.testng.annotations.Test;
 
+/**
+ * 
+ * 
+ * @author DELL
+ *
+ */
+
 public class DBConfig {
 
 	public static List<EmployeeClass> dbconfig() throws ClassNotFoundException, SQLException
