@@ -11,7 +11,13 @@ import java.util.List;
 import org.testng.annotations.Test;
 
 public class DBConfig {
-
+/**
+ * 
+ * 
+ * @return
+ * @throws ClassNotFoundException
+ * @throws SQLException
+ */
 	public static List<EmployeeClass> dbconfig() throws ClassNotFoundException, SQLException
 
 	{
