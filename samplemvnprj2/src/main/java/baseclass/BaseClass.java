@@ -1,8 +1,5 @@
 package baseclass;
-/**
-* added comments in remote repo
-*
-**/
+
 
 import java.lang.reflect.Method;
 import java.sql.SQLException;
