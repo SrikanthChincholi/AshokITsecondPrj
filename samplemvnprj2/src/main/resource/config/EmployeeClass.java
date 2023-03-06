@@ -1,11 +1,6 @@
 package config;
 
-/***
- * 
- * 
- * @author DELL
- *
- */
+
 
 public class EmployeeClass {
 
