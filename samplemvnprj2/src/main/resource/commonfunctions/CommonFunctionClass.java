@@ -1,5 +1,7 @@
 package commonfunctions;
-
+/**
+added comments remotely
+**/
 import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
